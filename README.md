@@ -1,4 +1,4 @@
-Vending Machhine Kelompok 2
+#Vending Machhine Kelompok 2
 
 Program ini merupakan imitasi dari OCTO Vending Machine yang terdapat di Kampus ITB Jatinangor
 
